@@ -1,1 +1,1 @@
-# This project was developed to suggest songs to the user spontaneously based on the their moods, the face was capturted by the camera and using various datasets the mood of the user was detected then the song was suggested.
+# This project was developed using Python, HTML& CSS to suggest songs to the user spontaneously based on the their moods, the face was capturted by the camera and using openai & various datasets the mood of the user was detected then the song was suggested.
